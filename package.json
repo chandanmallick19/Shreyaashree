@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://Shreyaashree.github.io/Shreyaashree",
+  "homepage": "https://Shreyaashree.github.io/Shreyaashree",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
