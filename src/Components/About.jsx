@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Software Engineer, currently working at CSG International. I have completed my Bachelors from SOA University.";
+  "I am a Dynamic individual with an insatiable appetite for coding & technology. I constantly thrive on new challenges and push the boundaries of what's possible. ";
 
 /**
  * List of some of skills or technologies you work on, are learning,
