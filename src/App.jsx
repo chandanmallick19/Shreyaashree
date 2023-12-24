@@ -27,7 +27,7 @@ const siteProps = {
   name: "Shreyaashree Sahu",
   title: "Software Engineer",
   email: "Shreyaashree.Sahu@studentambassadors.com",
-  gitHub: "https://github.com/Shreyaashree",
+  gitHub: "Shreyaashree",
   instagram: "microsoft",
   linkedIn: "https://www.linkedin.com/in/shreyashree-shuu-017809211/",
   medium: "",
